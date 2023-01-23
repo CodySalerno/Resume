@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    width: 100%;
+    background-color: #0000FF;
+    align-items: center;
+    
+}
+.site-name{
+    width: 10%;
+    margin-left: 5%;
+    color: #00aeff;
+}
+.site-menu{
+    text-align: center;
+    width: 70%;
+}
+.resume-link{
+    width: 10%;
+    margin-right: 5%;
+    text-align: right;
+}
+.nav-clicks{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 1%;
+}
+.resume-click{
+    text-decoration: none;
+    color: #ffffff;
+}

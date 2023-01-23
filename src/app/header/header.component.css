@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    padding: 1% 1%;
+    background-image: linear-gradient(to bottom, #0000FF, #0c336d);
+}
+.introduction{
+    width: 100%;
+    margin-left: 25%;
+    align-self: center;
+    color: #FFF;
+}
