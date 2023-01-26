@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
 import { HeaderComponent } from './header/header.component';
 import { AboutComponent } from './about/about.component';
-import { ExperienceComponent } from './experience/experience.component';
+import { skillsComponent } from './skills/skills.component';
 import { WorkComponent } from './work/work.component';
 import { DemosComponent } from './demos/demos.component';
 import { ContactComponent } from './contact/contact.component';
@@ -18,7 +18,7 @@ import { ContactComponent } from './contact/contact.component';
     NavComponent,
     HeaderComponent,
     AboutComponent,
-    ExperienceComponent,
+    skillsComponent,
     WorkComponent,
     DemosComponent,
     ContactComponent

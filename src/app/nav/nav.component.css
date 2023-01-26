@@ -26,6 +26,7 @@ h2{
     text-decoration: none;
     color: #ffffff;
     padding: 1%;
+    cursor: pointer;
 }
 .resume-click{
     text-decoration: none;

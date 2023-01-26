@@ -1,13 +1,13 @@
 <div class="navbar">
-    <div class="site-name">
-        <a class="nav-clicks" href="#"><h2>Cody Salerno</h2></a>
+    <div class="site-name" id="Name-top">
+        <a class="nav-clicks" (click)="onClick('Name-top')"><h2>Cody Salerno</h2></a>
     </div>
     <div class="site-menu">
-        <a class="nav-clicks" href="#About">About</a>
-        <a class="nav-clicks" href="#Experience">Experience</a>
-        <a class="nav-clicks" href="#Work">Work</a>
-        <a class="nav-clicks" href="#Demos">Demos</a>
-        <a class="nav-clicks" href="#Contact">Contact</a>
+        <a class="nav-clicks" (click)="onClick('About')">About</a>
+        <a class="nav-clicks" (click)="onClick('Skills')">Skills</a>
+        <a class="nav-clicks" (click)="onClick('Work')">Work</a>
+        <a class="nav-clicks" (click)="onClick('Demos')">Demos</a>
+        <a class="nav-clicks" (click)="onClick('Contact')">Contact</a>
     </div>
     <div class="resume-link">
         <a class="resume-click" [href]="resume_pdf" target="_blank">Resume</a>
