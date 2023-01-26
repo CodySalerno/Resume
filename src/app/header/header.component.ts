@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-  headshot_path: string = "/assets/headshot.jpg";
+  headshot_path: string = "INSERT LINK TO SELFIE";
 }
