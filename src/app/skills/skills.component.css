@@ -1,0 +1,15 @@
+.skills{
+    /*
+    background-image: linear-gradient(to bottom, #0c336d, #7fc7bb);
+    */
+    background-image: linear-gradient(to bottom, #0000FF, #0c336d);
+}
+.skill-list{
+    color: purple;
+    text-align: center;
+
+}
+.header-skills{
+    color: purple;
+    text-align: center;
+}

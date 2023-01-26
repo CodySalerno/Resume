@@ -1,10 +1,12 @@
 .upbringing{
     margin: 0 16%;
     color: #db2909;
-    background-color: #0c336d;
 
 }
 header{
     text-align: center;
     color: #db2909;
+}
+.About-full{
+    background-image: linear-gradient(to bottom, #0c336d, #7fc7bb);
 }
